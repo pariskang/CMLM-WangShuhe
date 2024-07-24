@@ -1,2 +1,2 @@
 Annotator: paris
-Annotated sentences:, 1, 2, 4, 5
+Annotated sentences:, 1, 2, 4, 5, 6
