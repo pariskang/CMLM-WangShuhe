@@ -1,0 +1,2 @@
+Annotator: kang
+Annotated sentences: 0, 1
