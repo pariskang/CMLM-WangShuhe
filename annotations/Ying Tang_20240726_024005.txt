@@ -1,2 +1,2 @@
 Annotator: Ying Tang
-Annotated sentences:, 1, 2
+Annotated sentences:, 1, 2, 2
